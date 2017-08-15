@@ -5,7 +5,18 @@ Stream Box with Raspberri 3
 # ROAD MAP
 
   1. Brainstomring on ideas
+  ----a browser platform with live stream from local network to raspberry;
+  ----server on local pc and client on raspberry(connected to the same network);
+  
   2. Taking a look on other open projects doing similar things
+  NPM
+  ----https://www.npmjs.com/package/streaming-media-encoder
+  ----https://www.npmjs.com/package/upnp-mediarenderer-client
+  PYTHON
+  ----https://gist.github.com/marvin/4318413      sta robba é proprio simpatica
+  ----http://www.chioka.in/python-live-video-streaming-example/
+  
+ 
   3. Merge other projects
   4. Write our own code
   5. Test code
